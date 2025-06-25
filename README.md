@@ -39,7 +39,7 @@
 ## Installation
 
 1. Clone the repository:
-   ```powershell
+```powershell
    git clone https://github.com/4G0NYY/LordsBloatRemover.git
    cd LordsBloatRemover
 ```
