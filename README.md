@@ -140,7 +140,7 @@ This project is released under the **MIT License**. See [LICENSE](./LICENSE) for
 
 * Inspired by the need for decluttered Windows installs
 * Thanks to the PowerShell community and Microsoft's documentation
-* Script name homage: *Lords of the Rings* + *bloat remover*
+* Script name homage: *My old Nickname* + *bloat remover*
 
 ---
 
