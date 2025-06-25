@@ -126,7 +126,7 @@ Please ensure your code follows the existing style and includes comments.
 If you'd like to report issues or suggest enhancements:
 
 * Use the **Issues** tab on this repo
-* Or contact \[[your\_email@example.com](mailto:your_email@example.com)] (replace with your real email)
+* Or contact \[[service@agony.ch](mailto:service@agony.ch)]
 
 ---
 
